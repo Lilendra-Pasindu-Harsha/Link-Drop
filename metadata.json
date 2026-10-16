@@ -1,0 +1,6 @@
+{
+  "name": "LinkDrop",
+  "description": "High-speed offline file transfer with multi-path pipeline, AES-GCM encryption, QR pairing, and offline Web Share.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
